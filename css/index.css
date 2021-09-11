@@ -96,13 +96,15 @@ outline: none;
     
 }
 .todo{
-    background: rgb(161, 156, 233);
+    background-color:rgb(226, 207, 248);
+
     width: 25rem;
     height: 2rem;
     border-radius: 3px;
     display: flex;
     justify-content: space-between;
     box-sizing: border-box;
+    
     
 }
 p{
@@ -130,12 +132,12 @@ cursor: pointer;
 }
 .todo-icon :nth-child(1){
     color: red;
-    background-color:rgb(152, 79, 235);
+    background: rgb(200, 198, 238);
     margin-right: 2px;
 }
 .todo-icon :nth-child(2){
     color: rgb(16, 235, 16);
-    background-color:rgb(152, 79, 235);
+    background: rgb(200, 198, 238);
 }
 .todo-icon i:hover{
     background-color: var(--primaryColor);
