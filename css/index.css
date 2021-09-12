@@ -152,7 +152,7 @@ cursor: pointer;
     
 }
 li{
-    padding: 1px;
+ margin: 1px;
     list-style: none;
 }
 .cumplid{
