@@ -156,9 +156,14 @@ li{
     list-style: none;
 }
 .cumplid{
-    text-decoration:line-through;
-    text-decoration-color: red;
+  background-color: red;
     opacity: 0.8;
+}
+.cumplid>p{
+color: yellow;
+    text-decoration:line-through;
+    text-decoration-color:blue;
+
 }
 
 
