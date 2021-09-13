@@ -155,15 +155,15 @@ li{
  margin: 1px;
     list-style: none;
 }
-.cumplid{
+.cumplited{
   background-color: red;
     opacity: 0.8;
 }
-.cumplid>p{
+/* .cumplited>p{
 color: yellow;
     text-decoration:line-through;
     text-decoration-color:blue;
 
-}
+} */
 
 
